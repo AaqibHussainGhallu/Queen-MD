@@ -9,20 +9,20 @@
 ══════════════════════════════════════════════════════════════════════════
                             ( OWNER  DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ Queen Multi-device Whatsapp Bot
-✅ Coded By DarkWinzo 
+✅ Aaqib's Multi-device Whatsapp Bot
+✅ Coded By Aaqib Hussain 
 ══════════════════════════════════════════════════════════════════════════
                               ( CONTACT ME )
 ══════════════════════════════════════════════════════════════════════════
-✅ Telegram: https://t.me/DarkWinzo
-✅ Whatsapp: https://wa.link/jw9ki6
-✅ Instagram:https://msng.link/o/?darkwinzo=ig
-✅ Youtube: https://youtube.com/c/DarkWinzo                                                                                                      
+✅ Telegram: https://t.me/AaqibHussainGhallu
+✅ Whatsapp: https://wa.me/447422403940
+✅ Instagram:https://instagram.com/aaqibhussain.official
+✅ Youtube: https://youtube.com/@aaqibhussainghallu9414                                                                                                      
 ══════════════════════════════════════════════════════════════════════════
                              ( PROJECT DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ @project_name Queen-MD [WA Multi-device]
-✅ @author DarkWinzo <https://github.com/DarkWinzo>
+✅ @project_name Aaqib [WA Multi-device]
+✅ @author AaqibHussain <https://github.com/DarkWinzo>
 ✅ @description A WhatsApp based 3ʳᵈ party application that provide many 
    services with a real-time automated conversational experience
 ✅ @link <https://github.com/DarkWinzo/Queen-MD>
@@ -34,7 +34,7 @@
    or copy the codes/script,
    please Contact me;
 ✅ If the recoded/reupload or copy script? "i will take action immediately"
-✅ © 2022 Queen Bot Inc.Technical Hacker Team
+✅ © 2023 Aaqib's Bot Inc.Technical Hacker Team
 ✅ God Bless You, Family and Myself
 ══════════════════════════════════════════════════════════════════════════
 */
