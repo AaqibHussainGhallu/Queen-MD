@@ -1,8 +1,8 @@
 {
-        "name": "Queen-MD",
-	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DarkWinzo/Queen-MD",
-	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
+        "name": "Quetta Gladiators",
+	"description": "Quetta Gladiators WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/AaqibHussainGhallu/Queen-MD",
+	"logo": "https://i.ibb.co/Krx7bmX/Queen.jpg",
 	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
   "stack": "container",
   "addons": [{
